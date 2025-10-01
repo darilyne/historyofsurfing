@@ -1,0 +1,58 @@
+body {
+background: url("https://drupal-prod.visitcalifornia.com/sites/default/files/styles/fluid_1920/public/2021-04/CaliforniaSurfingDay_Stock_RF_116354875.jpg.webp?itok=9AO7QA-t") center / cover no-repeat fixed;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    color: red;       
+    padding: 0 1rem;    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin: 10vh auto 0;  
+    padding: 0 1rem;  
+    font-size: 64px;   
+    line-height: 1.1; 
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+    color: yellow;       
+    padding: 0 1rem;    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin: 5vh auto 0;  
+    padding: 0 1rem;  
+    font-size: 64px; 
+    line-height: 1.1; 
+}
+
+p {
+    margin: 0;
+    text-align: center;
+    color: yellow;      
+    padding: 0 1rem;    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin: 3vh auto 0;  
+    padding: 0 1rem;  
+    font-size: px;  
+    line-height: 1.1; 
+}
+.card {
+    display: flex;
+    flex-wrap: nowrap;       
+    justify-content: center;  
+    align-items: flex-end;   
+    gap: 24px;              
+}
+
+.card img {
+    
+    flex-wrap: nowrap; 
+    width: 25%;
+    height: 25%;
+    object-fit: cover;
+     display: block;
+}
